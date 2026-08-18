@@ -68,7 +68,7 @@ const translation: Translation = {
     'language_es': 'Español',
     'language_it': 'Italiano',
     'language_sk': 'Eslovaco',
-    'language_hu': 'Húngaro',,
+    'language_hu': 'Húngaro',
     'language_pt': 'Portugués',
     'wind_speed_unit': 'Unidad de velocidad del viento',
     'wind_speed_unit_ms': 'm/s',
